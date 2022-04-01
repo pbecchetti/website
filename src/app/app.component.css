@@ -1,0 +1,62 @@
+/**********************************/
+/* SHARED */
+/**********************************/
+.btn-primary {
+  background-color: var(--grey);
+  border: none;
+  padding: 10px 20px;
+  font-size: 15px;
+}
+.btn-primary a {
+  color: var(--dark);
+  text-decoration: none;
+}
+.btn-primary:hover {
+  background-color: var(--light-grey);
+}
+
+/**********************************/
+/* HEADER */
+/**********************************/
+.header {
+  position: fixed;
+  width: 100%;
+}
+.scrolled {
+  background-color: var(--grey);
+}
+.header,
+.myself {
+  display: flex;
+  justify-content: space-between;
+  padding: 30px;
+}
+.avatar {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+/**********************************/
+/* TOP CONTENT */
+/**********************************/
+.profile-section {
+  background: url("/assets/img/san-francisco.jpg") center no-repeat;
+  height: 600px;
+  background-size: cover;
+  -webkit-clip-path: polygon(-3400px 0, 100% 600px, 100% 0px, 0 0);
+  clip-path: polygon(-3400px 0, 100% 600px, 100% 0px, 0 0);
+}
+.name-job {
+  text-align: center;
+  width: 50%;
+}
+
+.myself {
+  padding-top: 180px;
+}
+.myself h1,
+.myself h2 {
+  margin-bottom: 30px;
+}

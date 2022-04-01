@@ -1,0 +1,34 @@
+/**********************************/
+/** variables **/
+/**********************************/
+
+:root {
+  --dark: rgb(37, 36, 36);
+  --blue: #4b75f5;
+  --grey: #c8d1cf;
+  --light-grey: #a3acbf;
+  /* --msc-light-grey-2: #d7dbe6;
+  --msc-grey: #6a6a6a;
+  --msc-dark: #1e1e1e;
+  --msc-light: #7c808c;
+  --msc-gray-20: #202020;
+  --msc-gray-50: #8893aa;
+  --msc-gray-100: #a3aed0;
+  --msc-gray-110: #a3acbf;
+  --msc-gray-150: #d7dbe6;
+  --msc-gray-200: #f4f6fc;
+  --msc-gray-210: #f7f9ff;
+  --msc-gray-220: #f8f8f8;
+  --msc-blue-rgb: 75, 117, 245;
+  --msc-red-rgb: 217, 58, 29;
+  --msc-light-rgb: 124, 128, 140;
+  --bs-primary: var(--msc-blue);
+  --bs-primary-rgb: var(--msc-blue-rgb);
+  --bs-light: var(--msc-light);
+  --bs-light-rgb: var(--msc-light-rgb);
+  --bs-body-color: var(--msc-dark);
+  --msc-font-montserrat: "Montserrat", sans-serif;
+  --msc-font-lato: "Lato", sans-serif;
+  --bs-body-font-family: var(--msc-font-montserrat);
+  --bs-body-bg: var(--msc-gray-200); */
+}
